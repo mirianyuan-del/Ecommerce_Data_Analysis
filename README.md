@@ -122,3 +122,5 @@ Dataset_Customer/
 ## License
 
 This project is intended for learning, portfolio presentation, and demonstrating data analysis methods.
+
+完整 Dataset_Customer/ 数据集因文件较大，未上传至 GitHub。
